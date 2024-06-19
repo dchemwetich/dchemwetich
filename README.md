@@ -1,18 +1,17 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
+Ethical Hacker | [Your Name] <i class="fas fa-user-secret"></i>
+I'm an ethical hacker  <i class="fas fa-bug"></i>  passionate about securing systems and identifying vulnerabilities.  <i class="fas fa-lock"></i>  I believe in responsible disclosure and working collaboratively to improve security postures.  <i class="fas fa-handshake"></i>
 
-I'm a  passionate Developer from Kenya 🇮🇳
+Let's build a safer digital world, together!
 
-**About me**
-
-- 💼 Software Engineer at []()
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love doing Penetration Testing , and building fun HackingLabs
-
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+Skills <i class="fas fa-briefcase"></i>
+Programming Languages: (List your languages and proficiency) <i class="fas fa-code"></i>
+Example: Python (Expert), Java (Intermediate)
+Penetration Testing: <i class="fas fa-hammer"></i> (List specific tools and methodologies)
+Example: Web Application Penetration Testing, Social Engineering
+Vulnerability Analysis: <i class="fas fa-binoculars"></i> (Mention experience with scanners and manual testing)
+Linux: <i class="fas fa-tux"></i> (Indicate your comfort level with Linux environments)
+Cryptography (Optional, if applicable) <i class="fas fa-lock-open"></i>
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
