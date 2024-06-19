@@ -2,15 +2,15 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a  passionate Developer from Kenya 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Software Engineer at []()
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love doing Penetration Testing , and building fun HackingLabs
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
@@ -23,10 +23,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 | <a href="https://github.com/dchemwetich/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dchemwetich&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GreyHat github stats" /></a> | <a href="https://github.com/dchemwetich/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dchemwetich&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
 
 <br />
 
