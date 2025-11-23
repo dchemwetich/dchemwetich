@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### A passionate developer from Earth 🌍
+### A developer from Earth 🌍
 
 </div>
 
